@@ -1,2 +1,2 @@
-# Admin.script
-Script 
+admin.lua
+
